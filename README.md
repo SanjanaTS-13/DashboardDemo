@@ -1,1 +1,1 @@
-# bootsrapDemo
+# Dashboard example
