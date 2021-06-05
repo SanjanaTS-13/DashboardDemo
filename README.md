@@ -1,1 +1,1 @@
-# Dashboard example
+# DashboardDemo
